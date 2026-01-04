@@ -38,7 +38,9 @@ Example
 
 Input | Output
 [1, 2, 3, 4, 6] | 4.0
+
 [2, 4, 3, 7] | 5.0
+
 [8, 10, 2] | -1.0
 
 Bugged Code
@@ -62,4 +64,5 @@ def averageOdds(numbers: list[int]) -> float:
 
 Rules
 You cannot change the current code structure;
+
 You cannot change the programming language.
