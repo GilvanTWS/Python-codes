@@ -37,6 +37,7 @@ This code should take a list[int] as a parameter and return the arithmetic mean 
 Example
 
 Input | Output
+
 [1, 2, 3, 4, 6] | 4.0
 
 [2, 4, 3, 7] | 5.0
